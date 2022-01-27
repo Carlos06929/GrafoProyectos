@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:onClick="btn_vertices_prederminados"
+        android:title="Vertices" />
+    <item
+        android:id="@+id/item2"
+        android:onClick="btn_aristas_predeterminadas"
+        android:title="Aristas" />
+    <item
+        android:id="@+id/item3"
+        android:onClick="btn_dikstra"
+        android:title="Dikstra" />
+    <item
+        android:id="@+id/item4"
+        android:onClick="meterVertice"
+        android:title="Poner vertice" />
+    <item
+        android:onClick="meterArista"
+        android:title="Poner arista" />
+    <item
+        android:id="@+id/icono2"
+        android:icon="@drawable/clean1"
+        android:onClick="limpiarMapa"
+        android:title="icono2"
+        app:showAsAction="always" />
+</menu>

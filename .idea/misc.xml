@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/drawable/style_spinner.xml" value="0.2675925925925926" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/layout/style_spinner.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/layout/vista_grafodirigido.xml" value="0.33" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/layout/vista_grafonodirigido.xml" value="0.3496376811594203" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/layout/vista_grafonopesado.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/layout/vista_grafopesado.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/layout/vista_grafosnodirigido.xml" value="0.33" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/menu/menu_gd.xml" value="0.5" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProyectoGrafos/app/src/main/res/menu/menu_gnd.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
